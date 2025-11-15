@@ -1,4 +1,5 @@
 # first-git-repo
+
 This is my first Git Repository.
 <br>
-Author - Gunjan kumar
+Author - Gunjan (Engineering Student)
